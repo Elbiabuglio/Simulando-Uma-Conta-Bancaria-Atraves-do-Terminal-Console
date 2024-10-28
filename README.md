@@ -1,7 +1,7 @@
 ## Dio-Trilha-Java-Básico
 
 <p align="center">
-  <img width="200" height="200" src="https://lp.dio.me/wp-content/uploads/2023/05/BADGE_LUZ-4.png">
+  <img width="200" height="200" src="https://assets.dio.me/juYXWsOSipGPeFJ3xBcmuNtTZydtPzgkkiT_sr1wmQ0/f:webp/q:80/w:437/L3RyYWNrcy9jb3Zlci9kNmIyY2I4NC0yMDliLTRkZDUtODViYy00ZWE1ZDhiODJlNjMucG5n">
 </p>
 
 <h1 align="center"> Dio Trilha Java Básico - Exercício Conta Bancária</h1>
